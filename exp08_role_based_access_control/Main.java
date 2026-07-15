@@ -1,5 +1,3 @@
-package exp08_role_based_access_control;
-
 import java.util.HashMap;
 import java.util.Map;
 

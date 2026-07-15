@@ -1,5 +1,3 @@
-package exp10_log_monitoring_and_incident_management;
-
 import java.util.ArrayList;
 import java.util.List;
 

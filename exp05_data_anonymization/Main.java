@@ -1,5 +1,3 @@
-package exp05_data_anonymization;
-
 public class Main {
     public static void main(String[] args) {
         String[] names = {"Alice Johnson", "Bob Smith", "Carol Lee"};

@@ -1,5 +1,3 @@
-package exp09_attribute_based_access_control;
-
 import java.util.HashMap;
 import java.util.Map;
 
